@@ -16,3 +16,7 @@ Explicit graph representation of tic tac toe with each node being a state and ea
 # Tech Stack
 Language is C.
 libc, maybe RayLib if I have time.
+
+![System Diagram](System Diagram - CS193 Tic Tac Toe Project.drawio.png)
+
+[Eisenhower Matrix](The Eisenhower Matrix - CS193 Tic Tac Toe Project.pdf)
